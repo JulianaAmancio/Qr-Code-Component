@@ -1,0 +1,23 @@
+body{
+    background: #d4f1f4;
+    font-size: 15px;
+    padding-top: 100px;
+}
+img{
+    border-radius: 30px;
+}
+section{
+    width: 100%;
+    display: grid;
+    justify-items: center;
+}
+.card{
+    border-radius: 30px;  
+}
+.card-text {
+    padding-bottom: 30px;
+    padding-top: 10px;
+    color: rgb(113, 112, 112);
+    padding-left: 10px;
+    padding-right: 10px;
+}
